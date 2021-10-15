@@ -1,0 +1,606 @@
+<?xml version="1.0" ?>
+<ns0:RDF xmlns:ns0="https://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns1="https://schema.org/">
+	<ns1:ItemList>
+		<ns1:numberOfItems>5654</ns1:numberOfItems>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Edwin Austin Abbey</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/356/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Abbot Hall Art Gallery</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6603/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John White Abbott</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/357/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Lemuel Francis Abbott</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/358/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Robert Abraham</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/359/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Robert J. Abraham</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/360/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Absolon</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/363/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>A.C. Cooper Studio</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/26/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Gerald Ackermann</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/364/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Ackermann's Ltd.</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6311/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Rudolph Ackermann</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/365/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Walter William Acock</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/367/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Charles Denovan Adam</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/368/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>J. Adam</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/369/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Joseph Denovan Adam</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/370/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Patrick William Adam</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/371/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Robert Adam</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/372/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Charles James Adams</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/374/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Douglas Adams</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/375/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Eden Adams</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/376/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>George Gammon Adams</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/377/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Harry William Adams</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/378/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Clayton Adams</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/379/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Edgar Adolphe</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/382/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Thomas Adye</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/383/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Pieter Aertsen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/384/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Charles d' Agar</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/385/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Jacques d' Agar</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/387/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Jacques Laurent Agasse</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/388/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Agostino Aglio the elder</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/389/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Agostino Aglio the younger</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/390/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>A. H. Elton Bart</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6307/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John MacDonald Aiken</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/392/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Aikman</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/393/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>William Aikman</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/394/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>G. Ainsley</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/395/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Samuel James Ainsley</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/396/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>H. Aitchison</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/399/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>James Alfred Aitken</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/400/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>François van Aken</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/401/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Joseph van Aken</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/402/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Alan Jacobs</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6313/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Jean-François Albanis de Beaumont</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/404/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Thomas Frederick William Stead Alban</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/403/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Albany Museum of Art</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6314/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>H.R.H. Prince of Schleswig-Holstein-Glücksburg Albert</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/405/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Eleazar Albin</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/406/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Edward Alcock</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/407/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Cecil Charles Windsor Aldin</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/408/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Frederick James Aldridge</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/409/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Alefounder</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/411/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Cosmo Alexander</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/412/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Edwin J. Alexander</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/413/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Herbert Alexander</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/414/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>James Alexander</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/415/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Alexander the elder</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/416/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Robert L. Alexander</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/417/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>William Alexander</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/418/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Marian Margaret Alford</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/419/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>George Alken</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/420/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Henry Alken Snr</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/421/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Samuel Henry Alken</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/422/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Samuel Alken Jnr</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/423/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Sefferien Alken the elder</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6125/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>David Allan</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/426/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>R. Allan</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/427/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Robert Weir Allan</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/428/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>William Allan</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/429/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Thomas Allason</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/430/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Charles Frederick Allbon</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/431/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Andrew Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/432/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Charles John Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/433/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>George Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/434/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>J. Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/435/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Joseph Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/436/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Joseph W. Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/437/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Thomas Allen</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/438/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Francis Alleyne</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/439/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Helen Paterson Allingham</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/440/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Allison Studio, Armagh</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6318/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>William Allison</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/441/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Thomas Allom</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/442/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Henry C. Allport</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/443/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Washington Allston</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/444/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Anna Alma-Tadema</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/445/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Laura Theresa Alma-Tadema</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/446/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Lawrence Alma-Tadema</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/447/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>William Douglas Almond</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/448/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Frtiz B. Althaus</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/450/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Alwood</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/451/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Amhurst College</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6319/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Jacopo Amigoni</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/452/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>A. M. R. Andre Ravix</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6308/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Thomas Anburey</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/454/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>John Macvicar Anderson</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/456/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Capt. J. W. Anderson</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/455/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Sophie Anderson</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/457/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>William Anderson</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/459/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Henry Anderton</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/460/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:Person>
+				<ns1:name>Andrew Paterson, Inverness</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/6320/rdf</ns1:url>
+			</ns1:Person>
+		</ns1:itemListElement>
+	</ns1:ItemList>
+</ns0:RDF>

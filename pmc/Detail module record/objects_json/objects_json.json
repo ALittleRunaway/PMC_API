@@ -1,0 +1,34 @@
+{
+    "object": [
+        {
+            "sourceId": {
+                "label": "Source ID",
+                "value": "399568"
+            },
+            "primaryMedia": {
+                "label": "Primary media",
+                "value": "https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147045/full"
+            },
+            "invno": {
+                "label": "Object number",
+                "value": "PA-F00001-0007"
+            },
+            "onview": {
+                "label": "On view",
+                "value": "0"
+            },
+            "id": {
+                "label": "ID",
+                "value": "2438245"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Carved Wooden Bust Warden Matthew Woodward"
+            },
+            "classification": {
+                "label": "Classifications",
+                "value": "Archival Document"
+            }
+        }
+    ]
+}

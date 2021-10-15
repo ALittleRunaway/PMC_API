@@ -1,0 +1,820 @@
+<?xml version="1.0" ?>
+<ns0:RDF xmlns:ns0="https://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns1="https://schema.org/">
+	<ns1:ItemList>
+		<ns1:numberOfItems>109160</ns1:numberOfItems>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Paul Mellon Centre Photographic Archive</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391212/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Artists A-Z</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391214/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Unidentified Artists</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391219/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Sculptors A-Z</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391217/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Sculpture Collections</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391213/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Decorative Painting</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391220/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Sketchbooks, Albums of drawings, rare books &amp; collections of prints and drawings</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391215/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Paul Mellon Collection of Paintings</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391218/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Paul Mellon Collection of Prints and Drawings</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391216/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:name>Sculpture in the Caribbean</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391221/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/171027/full</ns1:image>
+				<ns1:name>The Main Title</ns1:name>
+				<ns1:creator>Tom Scutt</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/695238/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130685/full</ns1:image>
+				<ns1:name>Unattributed Sculpture; Portrait busts and monuments; Miscellaneous Statues</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391388/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147515/full</ns1:image>
+				<ns1:name>Monument to Edward St John</ns1:name>
+				<ns1:dateCreated>17th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399803/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147043/full</ns1:image>
+				<ns1:name>William III (1689-1702)</ns1:name>
+				<ns1:dateCreated>18th or early 17th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399567/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147045/full</ns1:image>
+				<ns1:name>Carved Wooden Bust Warden Matthew Woodward</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399568/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147047/full</ns1:image>
+				<ns1:name>Francis Bacon, Viscount St Albans, 1st Baron Verulam (1561-1626)</ns1:name>
+				<ns1:dateCreated>19th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399569/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147633/full</ns1:image>
+				<ns1:name>Richard, B. Sheridan (1719-88)</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399862/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147517/full</ns1:image>
+				<ns1:name>Moment to Sir Edward West d. 1828</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399804/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147397/full</ns1:image>
+				<ns1:name>Chimney Piece</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399744/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147635/full</ns1:image>
+				<ns1:name>Chimney Piece</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399863/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147637/full</ns1:image>
+				<ns1:name>Woman with Dead Child and Angelic Figure</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399864/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147639/full</ns1:image>
+				<ns1:name>Monument to Sir John Northcote (1570-1632)</ns1:name>
+				<ns1:dateCreated>1637</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399865/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147641/full</ns1:image>
+				<ns1:name>Sir John Northcote 1570-1632</ns1:name>
+				<ns1:dateCreated>17th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399866/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147643/full</ns1:image>
+				<ns1:name>Chimneypiece: (detail) of Lintel</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399867/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147521/full</ns1:image>
+				<ns1:name>Chimneypiece: Base of Left Jamb</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399806/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147049/full</ns1:image>
+				<ns1:name>Chimneypiece: Upper Right Angle</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399570/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147279/full</ns1:image>
+				<ns1:name>Chimneypiece: Red Marble Medallion to Right</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399685/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147051/full</ns1:image>
+				<ns1:name>Chimneypiece: Red Marble Medallion to Left</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399571/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147399/full</ns1:image>
+				<ns1:name>Chimneypiece: Red Marble Panel to the Rt.</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399745/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147053/full</ns1:image>
+				<ns1:name>Chimneypiece: Red Marble Panel to the Left</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399572/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147645/full</ns1:image>
+				<ns1:name>Chimneypiece: General View</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399868/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147161/full</ns1:image>
+				<ns1:name>Anne Cooke, Lady Bacon (1528-1610)</ns1:name>
+				<ns1:dateCreated>16th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399626/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147401/full</ns1:image>
+				<ns1:name>Sir Nicholas Bacon (1509-70) Lord Keeper</ns1:name>
+				<ns1:dateCreated>16th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399746/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147163/full</ns1:image>
+				<ns1:name>Sir Anthony Van Dyck</ns1:name>
+				<ns1:dateCreated>18th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399627/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147647/full</ns1:image>
+				<ns1:name>Charles I</ns1:name>
+				<ns1:dateCreated>18th–19th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399869/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147649/full</ns1:image>
+				<ns1:name>Charles II</ns1:name>
+				<ns1:dateCreated>18th–19th century</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399870/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147281/full</ns1:image>
+				<ns1:name>Equestrian Statue of Edward III and Other Busts at Lumley Castle in 1590</ns1:name>
+				<ns1:dateCreated>1590</ns1:dateCreated>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399686/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147651/full</ns1:image>
+				<ns1:name>David Garrick (1717-79)</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399871/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147055/full</ns1:image>
+				<ns1:name>The Great Hall at Lumley Castle Lined with Lord Lumley's Ancestors</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399573/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147403/full</ns1:image>
+				<ns1:name>Atlantic Stone</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399747/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147523/full</ns1:image>
+				<ns1:name>Prometheus Bound</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399807/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147653/full</ns1:image>
+				<ns1:name>Bust of a Man, Probably Lysimachus</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399872/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147165/full</ns1:image>
+				<ns1:name>Inigo Jones</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399628/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147167/full</ns1:image>
+				<ns1:name>Dr Samuel Johnson (1691-1773) Marble</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399629/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147169/full</ns1:image>
+				<ns1:name>John Locke</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399630/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147655/full</ns1:image>
+				<ns1:name>Portrait Bust of Charles, 3rd Duke of Richmond (1734-1806)</ns1:name>
+				<ns1:creator>Unidentified Creator</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399873/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130687/full</ns1:image>
+				<ns1:name>PA-F00002</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391389/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147057/full</ns1:image>
+				<ns1:name>Thomas Banks (1735-1805) Bust</ns1:name>
+				<ns1:creator>George Gammon Adams</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399574/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147659/full</ns1:image>
+				<ns1:name>George, 2nd Duke of Cambridge (1819-1904)</ns1:name>
+				<ns1:dateCreated>1866</ns1:dateCreated>
+				<ns1:creator>George Gammon Adams</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399875/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147405/full</ns1:image>
+				<ns1:name>Sir Francis Burdett (1770-1844)</ns1:name>
+				<ns1:creator>George Gammon Adams</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399748/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147407/full</ns1:image>
+				<ns1:name>Field Marshal Lord Seton</ns1:name>
+				<ns1:dateCreated>1863</ns1:dateCreated>
+				<ns1:creator>George Gammon Adams</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399749/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147409/full</ns1:image>
+				<ns1:name>Arthur, 2nd Duke of Wellington (1807-1887)</ns1:name>
+				<ns1:creator>George Gammon Adams</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399750/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147411/full</ns1:image>
+				<ns1:name>Lord Winmarleigh</ns1:name>
+				<ns1:creator>George Gammon Adams</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399751/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130689/full</ns1:image>
+				<ns1:name>PA-F00003</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391390/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130691/full</ns1:image>
+				<ns1:name>PA-F00004</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391391/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130463/full</ns1:image>
+				<ns1:name>PA-F00005</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391277/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147527/full</ns1:image>
+				<ns1:name>The Saloon: Marble Chimneypiece and Wooden Overmantel</ns1:name>
+				<ns1:creator>Sefferien Alken the elder</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399809/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147415/full</ns1:image>
+				<ns1:name>The Gallery: Chimneypiece and Overmantel Wimpole Hall, Cambs.</ns1:name>
+				<ns1:creator>Sefferien Alken the elder</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399753/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130353/full</ns1:image>
+				<ns1:name>PA-F00006</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391222/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147285/full</ns1:image>
+				<ns1:name>Love of the Mermaid</ns1:name>
+				<ns1:creator>Charles John Allen</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399688/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130801/full</ns1:image>
+				<ns1:name>PA-F00007</ns1:name>
+				<ns1:creator>Henry Hugh Armstead</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391446/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147529/full</ns1:image>
+				<ns1:name>Satan Dismayed</ns1:name>
+				<ns1:dateCreated>1853</ns1:dateCreated>
+				<ns1:creator>Henry Hugh Armstead</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399810/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130803/full</ns1:image>
+				<ns1:name>PA-F00008</ns1:name>
+				<ns1:creator>Thomas Adye</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391447/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147173/full</ns1:image>
+				<ns1:name>John Fane, Earl of Westmorland Wearing Classical Armour</ns1:name>
+				<ns1:dateCreated>1739</ns1:dateCreated>
+				<ns1:creator>Thomas Adye</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399632/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130693/full</ns1:image>
+				<ns1:name>PA-F00009</ns1:name>
+				<ns1:creator>Thomas Banks</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391392/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147059/full</ns1:image>
+				<ns1:name>Alcyone Discovering the Body Ceyx</ns1:name>
+				<ns1:creator>Thomas Banks</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399575/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147419/full</ns1:image>
+				<ns1:name>Warren Hastings</ns1:name>
+				<ns1:dateCreated>1790</ns1:dateCreated>
+				<ns1:creator>Thomas Banks</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399755/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130569/full</ns1:image>
+				<ns1:name>PA-F00010</ns1:name>
+				<ns1:creator>William Browne</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391330/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147175/full</ns1:image>
+				<ns1:name>Monument to William Browne</ns1:name>
+				<ns1:creator>William Browne</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399633/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147531/full</ns1:image>
+				<ns1:name>Monument to William Browne (detail)</ns1:name>
+				<ns1:creator>William Browne</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399811/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147661/full</ns1:image>
+				<ns1:name>Monument to William Browne (detail)</ns1:name>
+				<ns1:creator>William Browne</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399876/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147533/full</ns1:image>
+				<ns1:name>Monument to Maria Domina Browne</ns1:name>
+				<ns1:creator>William Browne</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399812/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130571/full</ns1:image>
+				<ns1:name>PA-F00011</ns1:name>
+				<ns1:creator>Edward Hodges Baily</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391331/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147061/full</ns1:image>
+				<ns1:name>Byron</ns1:name>
+				<ns1:dateCreated>1848</ns1:dateCreated>
+				<ns1:creator>Edward Hodges Baily</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399576/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147177/full</ns1:image>
+				<ns1:name>Frederek, 2nd Baron Methuen of Corsham (1818-1891)</ns1:name>
+				<ns1:dateCreated>1848</ns1:dateCreated>
+				<ns1:creator>Edward Hodges Baily</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399634/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147063/full</ns1:image>
+				<ns1:name>Horatio, Viscount Nelson</ns1:name>
+				<ns1:creator>Edward Hodges Baily</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399577/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147423/full</ns1:image>
+				<ns1:name>White Marble Bust of a Man.</ns1:name>
+				<ns1:dateCreated>1820</ns1:dateCreated>
+				<ns1:creator>Edward Hodges Baily</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399757/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130573/full</ns1:image>
+				<ns1:name>PA-F00012</ns1:name>
+				<ns1:creator>Lorenzo Bartolini</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391332/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147065/full</ns1:image>
+				<ns1:name>Frederick William 1st Marquis and 5th Earl of Bristol</ns1:name>
+				<ns1:creator>Lorenzo Bartolini</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399578/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130465/full</ns1:image>
+				<ns1:name>PA-F00013</ns1:name>
+				<ns1:creator>Gilbert Bayes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391278/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147287/full</ns1:image>
+				<ns1:name>The Scales of Time</ns1:name>
+				<ns1:creator>Gilbert Bayes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399689/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147535/full</ns1:image>
+				<ns1:name>A Young Diana</ns1:name>
+				<ns1:dateCreated>1915</ns1:dateCreated>
+				<ns1:creator>Gilbert Bayes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399813/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147179/full</ns1:image>
+				<ns1:name>The Remounts</ns1:name>
+				<ns1:dateCreated>1915</ns1:dateCreated>
+				<ns1:creator>Gilbert Bayes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399635/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147289/full</ns1:image>
+				<ns1:name>Sigurd</ns1:name>
+				<ns1:creator>Gilbert Bayes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399690/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/131207/full</ns1:image>
+				<ns1:name>PA-F00014</ns1:name>
+				<ns1:creator>John Bell</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391649/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147291/full</ns1:image>
+				<ns1:name>The Octoroon</ns1:name>
+				<ns1:dateCreated>ca. 1869</ns1:dateCreated>
+				<ns1:creator>John Bell</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399691/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130805/full</ns1:image>
+				<ns1:name>PA-F00015</ns1:name>
+				<ns1:creator>William Behnes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391448/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147067/full</ns1:image>
+				<ns1:name>Michael Barne</ns1:name>
+				<ns1:dateCreated>1836</ns1:dateCreated>
+				<ns1:creator>William Behnes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399579/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147293/full</ns1:image>
+				<ns1:name>Sir Williams Molesworth</ns1:name>
+				<ns1:creator>William Behnes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399692/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147183/full</ns1:image>
+				<ns1:name>Sir Jonathan Frederick Pollock (1783-1870)</ns1:name>
+				<ns1:dateCreated>1842</ns1:dateCreated>
+				<ns1:creator>William Behnes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399637/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147425/full</ns1:image>
+				<ns1:name>Bust of Admiral 1st Lord De Saumarez, 1757-1836</ns1:name>
+				<ns1:dateCreated>1835</ns1:dateCreated>
+				<ns1:creator>William Behnes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399758/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147667/full</ns1:image>
+				<ns1:name>7th Earl Waldegrave (1816-46)</ns1:name>
+				<ns1:creator>William Behnes</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399879/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/131209/full</ns1:image>
+				<ns1:name>PA-F00016</ns1:name>
+				<ns1:creator>Joseph Edgar Boehm</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391650/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147427/full</ns1:image>
+				<ns1:name>Sanjah Ahmed Husain</ns1:name>
+				<ns1:dateCreated>1889–90</ns1:dateCreated>
+				<ns1:creator>Joseph Edgar Boehm</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399759/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147429/full</ns1:image>
+				<ns1:name>Young Woman on Horseback</ns1:name>
+				<ns1:dateCreated>1865</ns1:dateCreated>
+				<ns1:creator>Joseph Edgar Boehm</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399760/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147069/full</ns1:image>
+				<ns1:name>Benjamin Disraeli 1st Earl of Beaconsfield (1804-81)</ns1:name>
+				<ns1:dateCreated>1880</ns1:dateCreated>
+				<ns1:creator>Joseph Edgar Boehm</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399580/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147071/full</ns1:image>
+				<ns1:name>Catherine Charlotte Maberley</ns1:name>
+				<ns1:dateCreated>1865</ns1:dateCreated>
+				<ns1:creator>Joseph Edgar Boehm</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399581/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147073/full</ns1:image>
+				<ns1:name>John Henry De La Poer, 5th Marquess of Waterford (1844-95)</ns1:name>
+				<ns1:creator>Joseph Edgar Boehm</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399582/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130575/full</ns1:image>
+				<ns1:name>PA-F00017</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391333/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147075/full</ns1:image>
+				<ns1:name>Adam and Eve after the Fall</ns1:name>
+				<ns1:dateCreated>1875</ns1:dateCreated>
+				<ns1:creator>Charles Bell Birch</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399583/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+	</ns1:ItemList>
+</ns0:RDF>

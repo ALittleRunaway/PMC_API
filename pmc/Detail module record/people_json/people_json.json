@@ -1,0 +1,18 @@
+{
+    "person": [
+        {
+            "sourceId": {
+                "label": "Source ID",
+                "value": "437"
+            },
+            "displayName": {
+                "label": "Name",
+                "value": "Joseph W. Allen"
+            },
+            "id": {
+                "label": "ID",
+                "value": "2361923"
+            }
+        }
+    ]
+}

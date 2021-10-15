@@ -1,0 +1,1371 @@
+<?xml version="1.0" ?>
+<people>
+	<count>5654</count>
+	<person>
+		<field label="ID" name="id">
+			<value>2363172</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>356</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Edwin Austin Abbey</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1852–1911</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2365005</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6603</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Abbot Hall Art Gallery</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363152</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>357</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John White Abbott</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1764–1851</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363220</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>358</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Lemuel Francis Abbott</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1750–1802</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363208</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>359</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Robert Abraham</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1774–1850</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363709</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>360</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Robert J. Abraham</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1847–1939</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363731</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>363</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Absolon</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1815–1895</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2364584</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>26</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>A.C. Cooper Studio</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363794</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>364</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Gerald Ackermann</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value/>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363375</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6311</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Ackermann's Ltd.</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value/>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363770</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>365</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Rudolph Ackermann</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1764–1834</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363812</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>367</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Walter William Acock</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1847–1933</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363880</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>368</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Charles Denovan Adam</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>active 1859</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363860</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>369</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>J. Adam</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>19th Century</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361518</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>370</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Joseph Denovan Adam</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1842–1896</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361505</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>371</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Patrick William Adam</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1854–1929</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361568</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>372</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Robert Adam</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1728–1792</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361606</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>374</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Charles James Adams</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1859–1931</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361590</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>375</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Douglas Adams</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1853–1920</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361656</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>376</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Eden Adams</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>active 1880</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361626</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>377</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>George Gammon Adams</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1821–1898</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361696</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>378</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Harry William Adams</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1868–1947</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361675</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>379</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Clayton Adams</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1840–1906</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362229</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>382</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Edgar Adolphe</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>born ca. 1839–</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362206</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>383</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Thomas Adye</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1662–1762</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362273</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>384</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Pieter Aertsen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1507–1575</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362252</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>385</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Charles d' Agar</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1699–1723</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362297</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>387</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Jacques d' Agar</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1642–1715</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362361</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>388</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Jacques Laurent Agasse</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1767–1849</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362334</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>389</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Agostino Aglio the elder</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1777–1857</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362139</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>390</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Agostino Aglio the younger</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1816–1885</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2364582</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6307</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>A. H. Elton Bart</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360059</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>392</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John MacDonald Aiken</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1880–1961</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360044</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>393</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Aikman</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1713–1731</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360100</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>394</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>William Aikman</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1682–1731</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360084</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>395</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>G. Ainsley</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1769–1849</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360135</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>396</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Samuel James Ainsley</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1810–1874</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360156</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>399</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>H. Aitchison</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1771–1930</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362565</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>400</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>James Alfred Aitken</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1846–1897</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362646</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>401</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>François van Aken</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1630–1750</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362614</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>402</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Joseph van Aken</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1689–1749</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363423</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6313</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Alan Jacobs</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362675</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>404</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Jean-François Albanis de Beaumont</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1747–1811</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362700</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>403</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Thomas Frederick William Stead Alban</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1887 - 1978</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363401</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6314</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Albany Museum of Art</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362747</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>405</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>H.R.H. Prince of Schleswig-Holstein-Glücksburg Albert</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1819–1861</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362725</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>406</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Eleazar Albin</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1683–1789</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362785</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>407</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Edward Alcock</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1737–1778</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362761</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>408</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Cecil Charles Windsor Aldin</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1870–1935</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362834</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>409</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Frederick James Aldridge</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1850–1933</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363316</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>411</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Alefounder</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1730–1795</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363299</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>412</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Cosmo Alexander</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1714–1782</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363376</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>413</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Edwin J. Alexander</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1877–1928</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363357</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>414</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Herbert Alexander</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1874–1946</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363428</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>415</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>James Alexander</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363407</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>416</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Alexander the elder</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1686–1766</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363475</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>417</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Robert L. Alexander</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1840–1923</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363447</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>418</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>William Alexander</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1767–1816</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363510</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>419</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Marian Margaret Alford</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1817–1888</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361765</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>420</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>George Alken</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1784–1847</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361118</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>421</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Henry Alken Snr</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1785–1851</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361093</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>422</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Samuel Henry Alken</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1810–1894</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361168</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>423</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Samuel Alken Jnr</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1784–ca. 1825</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363971</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6125</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Sefferien Alken the elder</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1717–1782</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361197</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>426</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>David Allan</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1744–1796</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361280</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>427</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>R. Allan</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1771–1930</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361253</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>428</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Robert Weir Allan</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1852–1942</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361318</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>429</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>William Allan</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1782–1850</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362434</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>430</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Thomas Allason</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1790–1852</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362504</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>431</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Charles Frederick Allbon</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1856–1926</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362478</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>432</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Andrew Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1640–1740</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361820</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>433</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Charles John Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1862–1955</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361804</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>434</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>George Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1682–1782</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361874</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>435</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>J. Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>active 1832–</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361853</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>436</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Joseph Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1770–1839</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361923</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>437</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Joseph W. Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1803–1852</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361903</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>438</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Thomas Allen</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>active 1756–1772</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361974</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>439</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Francis Alleyne</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1744–1820</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360247</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>440</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Helen Paterson Allingham</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1848–1926</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363807</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6318</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Allison Studio, Armagh</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360310</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>441</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>William Allison</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>active 1817–</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360291</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>442</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Thomas Allom</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1804–1872</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360349</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>443</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Henry C. Allport</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1789–1854</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360327</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>444</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Washington Allston</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1779–1843</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2359725</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>445</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Anna Alma-Tadema</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1865–1943</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2359698</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>446</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Laura Theresa Alma-Tadema</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1852–1909</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2359776</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>447</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Lawrence Alma-Tadema</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1836–1912</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2359752</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>448</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>William Douglas Almond</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1866–1916</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360910</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>450</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Frtiz B. Althaus</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>active 1887–1952</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360977</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>451</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Alwood</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2363876</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6319</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Amhurst College</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360959</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>452</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Jacopo Amigoni</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1675–1752</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2364557</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6308</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>A. M. R. Andre Ravix</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361004</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>454</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Thomas Anburey</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1759–1840</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361048</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>456</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>John Macvicar Anderson</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1835–1915</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2361072</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>455</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Capt. J. W. Anderson</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1812–1962</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360394</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>457</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Sophie Anderson</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1823–1903</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2360445</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>459</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>William Anderson</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1757–1837</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2364424</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>460</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Henry Anderton</value>
+		</field>
+		<field label="Date" name="displayDate">
+			<value>1630–1730</value>
+		</field>
+	</person>
+	<person>
+		<field label="ID" name="id">
+			<value>2362525</value>
+		</field>
+		<field label="Source ID" name="sourceId">
+			<value>6320</value>
+		</field>
+		<field label="Name" name="displayName">
+			<value>Andrew Paterson, Inverness</value>
+		</field>
+	</person>
+</people>

@@ -1,0 +1,227 @@
+{
+    "label": "PA-F00128-0003: The Road to the Lake",
+    "metadata": [
+        {
+            "label": "Source ID",
+            "value": "400392"
+        },
+        {
+            "label": "Title",
+            "value": "The Road to the Lake"
+        },
+        {
+            "label": "Dimensions",
+            "value": "10 3/4 x 8 1/2 (27.3 x 21.5)"
+        },
+        {
+            "label": "Object number",
+            "value": "PA-F00128-0003"
+        },
+        {
+            "label": "Artist / Maker / Culture",
+            "value": "John White Abbott"
+        },
+        {
+            "label": "Work type",
+            "value": "http://nodes.emuseum.com/D72IJS5Z/apis/emuseum/network/v1/vocabularies/termMaster27240"
+        },
+        {
+            "label": "Source of photograph",
+            "value": "Paul Mellon Centre for Studies in British Art"
+        },
+        {
+            "label": "Image licence",
+            "value": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+            "label": "Repository",
+            "value": "Paul Mellon Centre for Studies in British Art"
+        }
+    ],
+    "related": [
+        {
+            "format": "text/html",
+            "label": "View details",
+            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/objects/400392/the-road-to-the-lake"
+        }
+    ],
+    "rendering": [
+        {
+            "format": "text/html",
+            "label": "View details",
+            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/objects/400392/the-road-to-the-lake"
+        }
+    ],
+    "sequences": [
+        {
+            "label": "default",
+            "canvases": [
+                {
+                    "label": "PA-F00128-0003.jpg",
+                    "width": 4943,
+                    "height": 6144,
+                    "images": [
+                        {
+                            "resource": {
+                                "service": {
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ],
+                                            "@type": "iiif:Tile",
+                                            "@context": "http://iiif.io/api/image/2/context.json"
+                                        },
+                                        {
+                                            "width": 512,
+                                            "height": 512,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ],
+                                            "@type": "iiif:Tile",
+                                            "@context": "http://iiif.io/api/image/2/context.json"
+                                        },
+                                        {
+                                            "width": 1024,
+                                            "height": 1024,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ],
+                                            "@type": "iiif:Tile",
+                                            "@context": "http://iiif.io/api/image/2/context.json"
+                                        }
+                                    ],
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/image/v2/148693"
+                                },
+                                "format": "image/jpeg",
+                                "width": 4943,
+                                "height": 6144,
+                                "@type": "dctypes:Image",
+                                "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/image/v2/148693/full/full/0/default.jpg",
+                                "@context": "http://iiif.io/api/presentation/2/context.json"
+                            },
+                            "motivation": "sc:painting",
+                            "on": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/2576156",
+                            "@type": "oa:Annotation",
+                            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/annotation/2576156",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/148693",
+                    "@context": "http://iiif.io/api/presentation/2/context.json"
+                },
+                {
+                    "label": "PA-F00128-0004.jpg",
+                    "width": 4946,
+                    "height": 6147,
+                    "images": [
+                        {
+                            "resource": {
+                                "service": {
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "height": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ],
+                                            "@type": "iiif:Tile",
+                                            "@context": "http://iiif.io/api/image/2/context.json"
+                                        },
+                                        {
+                                            "width": 512,
+                                            "height": 512,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ],
+                                            "@type": "iiif:Tile",
+                                            "@context": "http://iiif.io/api/image/2/context.json"
+                                        },
+                                        {
+                                            "width": 1024,
+                                            "height": 1024,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ],
+                                            "@type": "iiif:Tile",
+                                            "@context": "http://iiif.io/api/image/2/context.json"
+                                        }
+                                    ],
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/image/v2/148694"
+                                },
+                                "format": "image/jpeg",
+                                "width": 4946,
+                                "height": 6147,
+                                "@type": "dctypes:Image",
+                                "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/image/v2/148694/full/full/0/default.jpg",
+                                "@context": "http://iiif.io/api/presentation/2/context.json"
+                            },
+                            "motivation": "sc:painting",
+                            "on": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/2576209",
+                            "@type": "oa:Annotation",
+                            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/annotation/2576209",
+                            "@context": "http://iiif.io/api/presentation/2/context.json"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/148694",
+                    "@context": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ],
+            "@type": "sc:Sequence",
+            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/sequence/default",
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        }
+    ],
+    "seeAlso": [
+        {
+            "format": "application/xml",
+            "profile": "http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd",
+            "label": "LIDO XML",
+            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/oai/pmh/v2?verb=GetRecord&metadataPrefix=lido&identifier=objects-400392"
+        }
+    ],
+    "logo": [
+        {
+            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/internal/media/logodispatcher/PMC_Strapline_black.png"
+        }
+    ],
+    "@type": "sc:Manifest",
+    "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/manifest",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "thumbnail": [
+        {
+            "service": {
+                "profile": "http://iiif.io/api/image/2/level2.json",
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/image/v2/148693"
+            },
+            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/image/v2/148693/0%2C0%2C0%2C0/full/0/default.jpg"
+        }
+    ]
+}

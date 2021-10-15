@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<object>
+	<field label="Primary media" name="primaryMedia">
+		<value>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147045/full</value>
+	</field>
+	<field label="Title" name="title">
+		<value>Carved Wooden Bust Warden Matthew Woodward</value>
+	</field>
+	<field label="Object number" name="invno">
+		<value>PA-F00001-0007</value>
+	</field>
+	<field label="On view" name="onview">
+		<value>0</value>
+	</field>
+	<field label="Classifications" name="classification">
+		<value>Archival Document</value>
+	</field>
+	<field label="ID" name="id">
+		<value>2438245</value>
+	</field>
+	<field label="Source ID" name="sourceId">
+		<value>399568</value>
+	</field>
+</object>

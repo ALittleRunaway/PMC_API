@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<person>
+	<field label="ID" name="id">
+		<value>2361923</value>
+	</field>
+	<field label="Source ID" name="sourceId">
+		<value>437</value>
+	</field>
+	<field label="Name" name="displayName">
+		<value>Joseph W. Allen</value>
+	</field>
+</person>

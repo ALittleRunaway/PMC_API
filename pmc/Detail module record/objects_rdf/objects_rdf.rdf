@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<ns0:RDF xmlns:ns0="https://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns1="https://schema.org/">
+	<ns1:VisualArtwork>
+		<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147045/full</ns1:image>
+		<ns1:name>Carved Wooden Bust Warden Matthew Woodward</ns1:name>
+		<ns1:creator>[com.gallerysystems.emuseum.core.entities.RecordXPerson@1788da, com.gallerysystems.emuseum.core.entities.RecordXPerson@188e63]</ns1:creator>
+		<ns1:creator>com.gallerysystems.emuseum.core.entities.RecordXPerson@188e63</ns1:creator>
+		<ns1:artForm>com.gallerysystems.emuseum.core.entities.Classification@2f</ns1:artForm>
+		<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399568/rdf</ns1:url>
+	</ns1:VisualArtwork>
+</ns0:RDF>
