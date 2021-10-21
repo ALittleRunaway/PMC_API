@@ -4,66 +4,6 @@
 		<ns1:numberOfItems>109160</ns1:numberOfItems>
 		<ns1:itemListElement>
 			<ns1:VisualArtwork>
-				<ns1:name>Paul Mellon Centre Photographic Archive</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391212/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Artists A-Z</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391214/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Unidentified Artists</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391219/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Sculptors A-Z</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391217/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Sculpture Collections</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391213/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Decorative Painting</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391220/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Sketchbooks, Albums of drawings, rare books &amp; collections of prints and drawings</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391215/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Paul Mellon Collection of Paintings</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391218/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Paul Mellon Collection of Prints and Drawings</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391216/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
-				<ns1:name>Sculpture in the Caribbean</ns1:name>
-				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391221/rdf</ns1:url>
-			</ns1:VisualArtwork>
-		</ns1:itemListElement>
-		<ns1:itemListElement>
-			<ns1:VisualArtwork>
 				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/171027/full</ns1:image>
 				<ns1:name>The Main Title</ns1:name>
 				<ns1:creator>Tom Scutt</ns1:creator>
@@ -814,6 +754,86 @@
 				<ns1:dateCreated>1875</ns1:dateCreated>
 				<ns1:creator>Charles Bell Birch</ns1:creator>
 				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399583/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130577/full</ns1:image>
+				<ns1:name>PA-F00018</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391334/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/131211/full</ns1:image>
+				<ns1:name>PA-F00019</ns1:name>
+				<ns1:creator>Edmund Bouchardon</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391651/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147541/full</ns1:image>
+				<ns1:name>John, Lord Hervey (detail) (1696-1743)</ns1:name>
+				<ns1:creator>Edmund Bouchardon</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399816/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147077/full</ns1:image>
+				<ns1:name>Inscription on Base of Bust in Marble of John, Lord Hervey (1698-1743)</ns1:name>
+				<ns1:creator>Edmund Bouchardon</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399584/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130579/full</ns1:image>
+				<ns1:name>PA-F00020</ns1:name>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391335/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/130467/full</ns1:image>
+				<ns1:name>PA-F00021</ns1:name>
+				<ns1:creator>Thomas Brock</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/391279/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147671/full</ns1:image>
+				<ns1:name>Sir Henry Tate</ns1:name>
+				<ns1:creator>Thomas Brock</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399881/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147673/full</ns1:image>
+				<ns1:name>Edward Adolphus, 12th Duke of Somerset (1804-85)</ns1:name>
+				<ns1:dateCreated>1892</ns1:dateCreated>
+				<ns1:creator>Thomas Brock</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399882/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147299/full</ns1:image>
+				<ns1:name>A Moment of Peril</ns1:name>
+				<ns1:dateCreated>1880</ns1:dateCreated>
+				<ns1:creator>Thomas Brock</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399695/rdf</ns1:url>
+			</ns1:VisualArtwork>
+		</ns1:itemListElement>
+		<ns1:itemListElement>
+			<ns1:VisualArtwork>
+				<ns1:image>https://photoarchive.paul-mellon-centre.ac.uk/internal/media/dispatcher/147545/full</ns1:image>
+				<ns1:name>Lady Helen Guendolen St. Maur (1846-1910)</ns1:name>
+				<ns1:creator>Thomas Brock</ns1:creator>
+				<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/objects/399818/rdf</ns1:url>
 			</ns1:VisualArtwork>
 		</ns1:itemListElement>
 	</ns1:ItemList>

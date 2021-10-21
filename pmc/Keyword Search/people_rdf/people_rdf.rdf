@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ns0:RDF xmlns:ns0="https://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns1="https://schema.org/">
+	<ns1:Person>
+		<ns1:name>Joseph W. Allen</ns1:name>
+		<ns1:birthDate>0</ns1:birthDate>
+		<ns1:deathDate>0</ns1:deathDate>
+		<ns1:url>https://photoarchive.paul-mellon-centre.ac.uk/people/437/rdf</ns1:url>
+	</ns1:Person>
+</ns0:RDF>

@@ -114,9 +114,9 @@
                                 "@context": "http://iiif.io/api/presentation/2/context.json"
                             },
                             "motivation": "sc:painting",
-                            "on": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/2576156",
+                            "on": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/2912092",
                             "@type": "oa:Annotation",
-                            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/annotation/2576156",
+                            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/annotation/2912092",
                             "@context": "http://iiif.io/api/presentation/2/context.json"
                         }
                     ],
@@ -182,9 +182,9 @@
                                 "@context": "http://iiif.io/api/presentation/2/context.json"
                             },
                             "motivation": "sc:painting",
-                            "on": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/2576209",
+                            "on": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/canvas/2912145",
                             "@type": "oa:Annotation",
-                            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/annotation/2576209",
+                            "@id": "https://photoarchive.paul-mellon-centre.ac.uk/apis/iiif/presentation/v2/1-objects-400392/annotation/2912145",
                             "@context": "http://iiif.io/api/presentation/2/context.json"
                         }
                     ],
